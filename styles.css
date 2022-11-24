@@ -5,12 +5,13 @@ body {
 }
 
 .eyes {
+  display: flex;
   position: absolute;
-  top: 500%;
-  transform: translateY(-50%);
-  width: 100%;
-  text-align: center;
-  margin-left: -1600px;
+  /* top: 500%; */
+  transform: translateY(50%);
+  /* width: 100%; */
+  /* text-align: center; */
+  /* margin-left: -1600px; */
 }
 .eye {
   width: 240px;
