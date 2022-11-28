@@ -1,2 +1,2 @@
 # Eye-Exercise
-Eye movement with mouse
+Description: In this page you cane move your cursor across the browser screen and the black eyeballs will follow.
